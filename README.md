@@ -1,0 +1,1 @@
+# IST440W is a puzzle that utilizes an M5Stack along with a load cell sensor to act as a weight scale. The user has to place a certain number of objects on the scale in order to hit the predetermined "secret" weight and win the puzzle.
